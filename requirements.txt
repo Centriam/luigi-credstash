@@ -1,0 +1,2 @@
+credstash_cache==0.0.2
+luigi
